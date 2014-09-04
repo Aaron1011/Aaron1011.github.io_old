@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/aaron1011
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aaron1011.github.io
+  * I am aaron1011 (https://keybase.io/aaron1011) on keybase.
+  * I have a public key with fingerprint EC9F 4673 74DF 0708 F62B  7F7D B408 7E51 0E98 B164
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.5.1"
+        },
+        "key": {
+            "fingerprint": "ec9f467374df0708f62b7f7db4087e510e98b164",
+            "host": "keybase.io",
+            "key_id": "B4087E510E98B164",
+            "uid": "74ec1d42a2b3e5a85216c9961e38ac00",
+            "username": "aaron1011"
+        },
+        "merkle_root": {
+            "ctime": 1409871660,
+            "hash": "3ad31cb8f91f8421f5278531f07615d61019fca8f2ba590b28df2a7d50cd9bec6a0580931b730e1110c7c110904253fa3e9a5e1a67b03add415776484c889b03",
+            "seqno": 46816
+        },
+        "service": {
+            "hostname": "aaron1011.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1409871704,
+    "expire_in": 157680000,
+    "prev": "57bf916f9c297bf7d544ce5db2233c94a806824afb1f6e25303b49bfe6eb7a44",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkn1QFGUcx7kTxHgRtRccSQbWwkKEffZ9b1SUJEHqD4RMGYH22X0WNrhbuDsO
+DzwcOSqS5jqjmfQPJ2ooJsAxXmdq0ILSHGAwGEJAcSCZBNNCk5wRgnaRpmz/2Hn2
+2c/v+/t9v8/jDV7hYzS0ripLXX2ySTL0TEOf9FW/HyjFoCo5MVMpJuYryGLXVxbB
+jDATloecULChWEWNsKgSin3TFrHMxGAOZLUpqkWj8Fg6FmCuGB3Xi2XFkoOsBVZF
+18KQyMsUw5IsJck4i3MyQ0BWZiVI4RyLaIAjnoOAoTTJXNVmf6wrtqSZrUjaboLO
+J2p8Is8lPOKLln6wFBKBRBECAUlECxxNAEbkeQYgkhNEHNdBG7IuWxIEq2oBOFga
+2Iysefko26qqS65Fu6IzgMJ5jgUMg2sjCbZcrYoUJBKIkJN5IHMUAWSaYDmaBJoj
+BtASownysihwMgEFmschwUkyIbASjYsSD5HICDjN4TwJIEviCACAi6yovXmcImhS
+FkjECzQCAsNCXOslUYBmWYbiKJHjeG1L82BDhRYVM1EMBxiX/ml1KCLSx9Zj+7+7
+2BzFnlsEH2VYYFXtqqjma0Cu3V5gM+ne7c6Cdr2kGMHsZbFsqFgk7fD+e7pAQx/P
+hcWpGAwdLlCsKFvRCZplOFx79EbIoUnSLNSCYmReJHhtqcVAUSKiJUgQJCnylMDh
+DEdQggyBzCAtAJyEFA9lxCDIChT1r1ugidqFHE3TpuRYBHuRFWGud43P+voYjD4r
+/Yz6/fUJeGLNP5f67N2Qv8Lab8OuCS8mmRq+aFmU+1I2thrnpvs//mj0kGfv/BlD
+YODnC9gv16NnH5YMRx11na5Ku2qu7/IGOPvfmEhqCsZq7eNFW86RA3dDg0B0rDSU
+f6Xtt+mvfvzsu1cGChr83j/81GR970SH++octabY1eD1rJi9sqm0uva5mnWbJx6A
+3NSXLm/HjmVV7Q7pOHdksidtbsNQ4dTrO74cPBjtGPtg3X6x/IQlfaKk95mmXVWW
+HRWCs8uYWRLZ0d5XHDE7Zsta7U7bdyOlPH6+/LWt6lDKTEr4zcj4PTdf2LnNMNI2
+HDW17y036MzZaQsaT+gcvj6W+eKha3HfdyY44c/uzR7LYgi5JUPpubBHdJ1ZnXfy
+XvsfH5rfawwrcYXfP7XfMbE+MMXgTGjxr4jeG7Pw6ZM/TbaOtHSvNRRNc0WJ9nnf
+o66LNdfkDeL5io3VYTPS1O6S7rJNTztSo364MxlU3SqxC/25ifcLj4y1PsRC0z0P
+Kisqk4sHL/i/E8gXH+x3R4pm/7JQt9n8Zz0aWuyujKvtFVcq3q1xSWMjwRclZ/Lx
+47ea3x7sLkkcz5pJPg/rapTRW6/mn7gTMH62MTPv8tf10q++nsLGAxmfrO06XRff
+d2x7YbPat7j+dsY3u4JNo9uyjKXeb/vK3OhSUmhq0kB48/MxdfcudUZE+Dkzboin
+6No2B/+y528=
+=t5Qu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaron1011
+
+==================================================================
