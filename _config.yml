@@ -6,15 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            str(Aaron1011)
+tagline:          The Blog of Aaron1011
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Aaron Hill
+  email:          aa1ronham@gmail.com
 
 # Custom vars
 version:          1.0.0
