@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            str(Aaron1011)
 tagline:          The Blog of Aaron1011
-url:              http://getpoole.com
-paginate:         1
+url:              http://aaron1011.github.io
+paginate:         5
 baseurl:          /
 author:
   name:           Aaron Hill
