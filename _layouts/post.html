@@ -23,3 +23,10 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+{% if site.disqus_shortname and page.comments == true %}
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include comments.html %}</div>
+  </section>
+{% endif %}

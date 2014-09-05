@@ -26,3 +26,5 @@ pages_list:
   Feed: '/atom.xml'
 
 excerpt_separator: "\n\n"
+
+disqus_shortname: 'aaron1011'
