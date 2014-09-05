@@ -25,4 +25,4 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
 
-excerpt_separator: "\n"
+excerpt_separator: "\n\n"
