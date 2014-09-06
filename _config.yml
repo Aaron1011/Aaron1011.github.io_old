@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            str(Aaron1011)
-tagline:          The Blog of Aaron1011
+description:      The Blog of Aaron1011
 url:              http://aaron1011.pw
 paginate:         5
 baseurl:          /
@@ -35,10 +35,13 @@ version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
 
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+links:
+  - title: Feed 
+    url: '/atom.xml'
+    external: true
+  - title: About.me
+    url: 'http://about.me/aaron1011'
+    external: true
 
 timezone:    America/New_York
 future:      true
