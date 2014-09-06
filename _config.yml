@@ -15,6 +15,17 @@ author:
   name:           Aaron Hill
   email:          aa1ronham@gmail.com
 
+
+owner:
+  name: Aaron Hill
+  avatar: ubuntu.jpeg
+  bio: "I'm a software developer living in New Hampshire, who works with a variety of languages and technologies"
+  email: me@aaron1011.pw
+  twitter: AaronThe1011
+  github: Aaron1011
+  stackexchange: Aaron1011
+
+
 # Custom vars
 version:          1.0.0
 github:
@@ -24,6 +35,9 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+
+timezone:    America/New_York
+future:      true
 
 excerpt_separator: "\n\n"
 
