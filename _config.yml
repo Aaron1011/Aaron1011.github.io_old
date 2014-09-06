@@ -46,3 +46,6 @@ future:      true
 excerpt_separator: "\n\n"
 
 disqus_shortname: 'aaron1011'
+
+gems:
+  - jekyll-sitemap
