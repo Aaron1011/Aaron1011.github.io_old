@@ -16,6 +16,8 @@ author:
   email:          aa1ronham@gmail.com
 
 
+
+
 owner:
   name: Aaron Hill
   avatar: ubuntu.jpeg
@@ -25,6 +27,8 @@ owner:
   github: Aaron1011
   stackexchange: Aaron1011
 
+
+google_analytics: UA-36741672-2
 
 # Custom vars
 version:          1.0.0
