@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            str(Aaron1011)
 tagline:          The Blog of Aaron1011
-url:              http://aaron1011.github.io
+url:              http://aaron1011.pw
 paginate:         5
 baseurl:          /
 author:
