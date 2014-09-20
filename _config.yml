@@ -27,6 +27,7 @@ owner:
   github: Aaron1011
 
 google_analytics: UA-36741672-2
+clicky: true
 
 # Custom vars
 version:          1.0.0
